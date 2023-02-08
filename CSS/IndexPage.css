@@ -5,6 +5,13 @@ h
 nav 
     {
         color: green;
-        background-color: black;
+        background-color: gray;
         margin: 3px;
     }
+h1 
+    {
+        color: red;
+    }
+
+
+        
